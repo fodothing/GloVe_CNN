@@ -1,4 +1,3 @@
-# 只移除一点点
 # coding: utf-8
 # Copyright statement: Some codes refer to the following open source project:
 #
