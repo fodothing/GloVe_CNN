@@ -21,7 +21,5 @@ def ma_mi_cro_avg(y_true, y_pred, eva_met):
 
     # 取小数点5位
     f1 = round(f1, 5)
-    p = round(p, 5)
-    r = round(r, 5)
 
     print(f"{evaluation_metrics}-f1: {f1}")
